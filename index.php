@@ -25,7 +25,7 @@ if(isset($_POST['username']) && isset($_POST['password'])){
 ?>
 <html>
 <head>
-	<title>Strona Logowania</title>
+	<title>Logowanie do shopingApki</title>
    <!--Made with love by Mutiullah Samim -->
 
 	<!--Bootsrap 4 CDN-->
@@ -42,7 +42,7 @@ if(isset($_POST['username']) && isset($_POST['password'])){
 	<div class="d-flex justify-content-center h-100">
 		<div class="card">
 			<div class="card-header">
-				<h3>Zaloguj się do APKI</h3>
+				<h3>Zaloguj się do ZakuPAPKI</h3>
 			</div>
 			<div class="card-body">
 				<form method="post" action="index.php">
