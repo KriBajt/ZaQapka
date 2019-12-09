@@ -1,1 +1,3 @@
 # ZaQapka
+
+Dodano trochę tekstu
